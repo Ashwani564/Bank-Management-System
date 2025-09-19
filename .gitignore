@@ -1,0 +1,28 @@
+# Build results
+bin/
+obj/
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Visual Studio files
+.vs/
+*.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Package files
+*.nupkg
+*.snupkg
