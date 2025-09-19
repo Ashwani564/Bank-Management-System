@@ -1,6 +1,7 @@
 # Bank Management System
 
-A simple C# console application for managing bank accounts with database integration.
+<img width="984" height="880" alt="Screenshot 2025-09-18 at 10 51 43 PM" src="https://github.com/user-attachments/assets/79f3bee6-cd3e-43fb-b653-97fff95e72f7" />
+A simpleC# console application for managing bank accounts with database integration.
 
 ## What it is
 A basic banking system that allows users to:
